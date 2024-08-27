@@ -1,0 +1,16 @@
+title = "Test"
+author = "cognitive-engineering-lab"
+repo = "rqst-test"
+
+[[stages]]
+label = "00-stage"
+name = "A"
+no-starter = true
+
+[[stages]]
+label = "01-stage"
+name = "B"
+
+[[stages]]
+label = "02-stage"
+name = "C"
