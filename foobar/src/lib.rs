@@ -3,6 +3,7 @@ pub fn add(left: u64, right: u64) -> u64 {
   println!("B-a");
   println!("B-b");
   println!("C-a");
+  println!("C-b");
   left + right
 }
 
