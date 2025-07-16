@@ -3,15 +3,15 @@ author = "cognitive-engineering-lab"
 repo = "rqst-test"
 rq-version = "0.3.0"
 
-[[stages]]
+[[chapters]]
 label = "00-stage"
 name = "A"
 no-starter = true
 
-[[stages]]
+[[chapters]]
 label = "01-stage"
 name = "B"
 
-[[stages]]
+[[chapters]]
 label = "02-stage"
 name = "C"
